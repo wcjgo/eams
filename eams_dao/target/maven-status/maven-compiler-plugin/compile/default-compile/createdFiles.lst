@@ -1,0 +1,8 @@
+cn\neu\ssm\dao\IPermissionDao.class
+cn\neu\ssm\dao\ISysLogDao.class
+cn\neu\ssm\dao\ITravellerDao.class
+cn\neu\ssm\dao\IUserDao.class
+cn\neu\ssm\dao\IOrdersDao.class
+cn\neu\ssm\dao\IMemberDao.class
+cn\neu\ssm\dao\IProductDao.class
+cn\neu\ssm\dao\IRoleDao.class

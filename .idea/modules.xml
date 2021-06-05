@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eams.iml" filepath="$PROJECT_DIR$/eams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eams_dao/eams_dao.iml" filepath="$PROJECT_DIR$/eams_dao/eams_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eams_domain/eams_domain.iml" filepath="$PROJECT_DIR$/eams_domain/eams_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eams_service/eams_service.iml" filepath="$PROJECT_DIR$/eams_service/eams_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eams_utils/eams_utils.iml" filepath="$PROJECT_DIR$/eams_utils/eams_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eams_web/eams_web.iml" filepath="$PROJECT_DIR$/eams_web/eams_web.iml" />
+    </modules>
+  </component>
+</project>

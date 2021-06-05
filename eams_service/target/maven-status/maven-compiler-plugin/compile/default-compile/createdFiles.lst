@@ -1,0 +1,12 @@
+cn\neu\ssm\service\impl\PermissionServiceImpl.class
+cn\neu\ssm\service\IProductService.class
+cn\neu\ssm\service\impl\UserServiceImpl.class
+cn\neu\ssm\service\impl\OrdersServiceImpl.class
+cn\neu\ssm\service\impl\RoleServiceImpl.class
+cn\neu\ssm\service\impl\SysLogServiceImpl.class
+cn\neu\ssm\service\ISysLogService.class
+cn\neu\ssm\service\IUserService.class
+cn\neu\ssm\service\IOrdersService.class
+cn\neu\ssm\service\IRoleService.class
+cn\neu\ssm\service\impl\ProductServiceImpl.class
+cn\neu\ssm\service\IPermissionService.class

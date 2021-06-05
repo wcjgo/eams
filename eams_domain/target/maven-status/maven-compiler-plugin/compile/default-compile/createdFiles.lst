@@ -1,0 +1,8 @@
+cn\neu\ssm\domain\Member.class
+cn\neu\ssm\domain\Permission.class
+cn\neu\ssm\domain\Orders.class
+cn\neu\ssm\domain\Product.class
+cn\neu\ssm\domain\Role.class
+cn\neu\ssm\domain\Traveller.class
+cn\neu\ssm\domain\UserInfo.class
+cn\neu\ssm\domain\SysLog.class
